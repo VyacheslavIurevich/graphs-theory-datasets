@@ -1,1 +1,14 @@
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
+coPapersDBLP.tar.gz filter=lfs diff=lfs merge=lfs -text
+hollywood-2009.tar.gz filter=lfs diff=lfs merge=lfs -text
+indochina-2004.tar.gz filter=lfs diff=lfs merge=lfs -text
+rgg_n_2_23_s0.tar.gz filter=lfs diff=lfs merge=lfs -text
+com-Orkut.tar.gz filter=lfs diff=lfs merge=lfs -text
+rgg_n_2_22_s0.tar.gz filter=lfs diff=lfs merge=lfs -text
+road_central.tar.gz filter=lfs diff=lfs merge=lfs -text
+roadNet-CA.tar.gz filter=lfs diff=lfs merge=lfs -text
+soc-LiveJournal1.tar.gz filter=lfs diff=lfs merge=lfs -text
+amazon-2008.tar.gz filter=lfs diff=lfs merge=lfs -text
+belgium_osm.tar.gz filter=lfs diff=lfs merge=lfs -text
+cit-Patents.tar.gz filter=lfs diff=lfs merge=lfs -text
+coAuthorsCiteseer.tar.gz filter=lfs diff=lfs merge=lfs -text
